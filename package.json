@@ -1,6 +1,6 @@
 {
   "name": "macs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get mac addresses of all interfaces",
   "main": "src/macs.js",
   "scripts": {
