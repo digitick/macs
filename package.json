@@ -1,0 +1,31 @@
+{
+  "name": "macs",
+  "version": "0.0.1",
+  "description": "Get mac addresses of all interfaces",
+  "main": "src/macs.js",
+  "scripts": {
+    "test": "eslint --fix src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitick/macs.git"
+  },
+  "keywords": [
+    "mac",
+    "addresses"
+  ],
+  "author": "Digitick <dev@digitick.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/digitick/macs/issues"
+  },
+  "homepage": "https://github.com/digitick/macs#readme",
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0"
+  }
+}
